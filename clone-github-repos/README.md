@@ -1,4 +1,4 @@
-#clone-github-repos
+# clone-github-repos
 
 This script will clone all the repos of a given user and sorts them into two directories, `original` and `forked`.
 
